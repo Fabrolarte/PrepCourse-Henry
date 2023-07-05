@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Mi primer repositorio virtual, es una prueba, modulo #2
+Este proyecto es una prueba para clonar al escritorio.
+
+Fabian Rodriguez
